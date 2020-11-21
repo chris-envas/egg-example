@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "ljx5201314",
+    "database": "egg-database_development",
+    "host": "134.175.245.200",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "ljx5201314",
+    "database": "egg-database_test",
+    "host": "134.175.245.200",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "ljx5201314",
+    "database": "egg-database_production",
+    "host": "134.175.245.200",
+    "dialect": "mysql"
+  }
+}
